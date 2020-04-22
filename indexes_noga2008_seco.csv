@@ -1,35 +1,35 @@
-noga2008_seco,noga2008_seco_title,lockdown_index,home_office_index,d_pct_unempl_mar19_mar20,d_pct_unempl_feb20_mar20,weights
-01-03,"Land- und Forstwirtschaft, Fischerei",0.1413,0.1281,12.7,-1.1,112084
-04-09,"Bergbau, Steine und Erden",0.4747,0.1657,53.0,13.5,2751
-10-12,"Nahrungsmittel, Getränke, Tabak",0.3911,0.2328,10.3,9.2,63937
-13-14,Textilien und Bekleidung,0.4237,0.2227,12.2,14.3,9737
-15,"Leder, Lederwaren und Schuhe",0.4438,0.1716,-1.9,-1.9,801
-16,"Holz-, Flecht-, Korb- und Korkwaren",0.7094,0.1102,49.1,25.1,26640
-17-18,Papier- und Druckgewerbe,0.2732,0.3676,5.3,6.6,20024
-19-21,"Chemische Industrie, Mineralölverarbeitung",0.2850,0.4180,10.7,5.4,50883
-22,Gummi- und Kunststoffwaren,0.3809,0.2153,26.5,14.6,16974
-23,"Glas, Keramik, Zementwaren",0.4346,0.2408,-1.3,8.4,14746
-24-25,"Metallerzeugung, Metallerzeugnisse",0.4006,0.2138,37.2,8.7,74237
-26-27,"Elektrotechnik, Elektronik, Uhren, Optik",0.2867,0.4114,33.2,10.5,102841
-28,Maschinenbau,0.3428,0.3807,34.1,9.8,65404
-29-30,Fahrzeugbau,0.3529,0.2927,18.3,12.4,15000
-31-33,Möbel; Reparatur von Maschinen,0.4471,0.2804,15.9,11.6,42599
-35,Energieversorgung,0.3752,0.4506,13.4,15.6,23307
-36-39,Recycling; Wasserversorgung,0.3582,0.2331,4.5,2.7,13478
-41-43,Baugewerbe,0.5641,0.1627,22.7,8.7,268101
-45,Autohandel und -reparatur*,0.0827,0.8595,20.6,8.8,60273
-46,Grosshandel*,0.2423,0.6698,8.3,9.5,181441
-47,Detailhandel*,0.3686,0.3998,12.0,14.8,207652
-49-52,Verkehr und Transport,0.4350,0.3904,24.4,18.5,156027
-55-56,Gastgewerbe,0.6014,0.1082,49.3,45.3,161078
-58-63,Information und Kommunikation,0.2257,0.7724,14.8,15.1,141504
-64-66,Finanz- und Versicherungsdienstleistungen*,0.1423,0.8742,12.6,10.8,207580
-68,Grundstücks- und Wohnungswesen,0.3098,0.5159,20.7,16.5,38647
-69-75,"Freiberufl., wissensch. u. techn. Dienstleistungen",0.2814,0.6791,20.8,16.3,349089
-77-82,Sonstige wirtschaftliche Dienstleistungen,0.3541,0.2765,22.0,14.3,140245
-84,"Öffentl. Verwaltung, Sozialversicherungen*",0.0000,1.0000,23.5,13.0,167460
-85,Erziehung und Unterricht,0.5661,0.6749,27.3,24.0,247506
-86-88,Gesundheits- und Sozialwesen*,0.0000,1.0000,12.6,8.8,469426
-90-93,"Kunst, Unterhaltung und Erholung",0.4967,0.4462,28.1,28.9,57823
-94-96,Sonstige Dienstleistungen,0.5348,0.4610,19.1,15.3,106093
-97-98,Private Haushalte mit Hauspersonal,0.4214,0.1778,1.6,7.4,29927
+noga2008_seco,noga2008_seco_title,lockdown_index,home_office_index,d_pct_unempl_mar19_mar20,weights
+01.Mar,"Land- und Forstwirtschaft, Fischerei",0.1413,0.1281,12.7,112084
+04.Sep,"Bergbau, Steine und Erden",0.4747,0.1657,53,2751
+10.Dec,"Nahrungsmittel, Getränke, Tabak",0.3911,0.2328,10.3,63937
+13-14,Textilien und Bekleidung,0.4237,0.2227,12.2,9737
+15,"Leder, Lederwaren und Schuhe",0.4438,0.1716,-1.9,801
+16,"Holz-, Flecht-, Korb- und Korkwaren",0.7094,0.1102,49.1,26640
+17-18,Papier- und Druckgewerbe,0.2732,0.3676,5.3,20024
+19-21,"Chemische Industrie, Mineralölverarbeitung",0.285,0.418,10.7,50883
+22,Gummi- und Kunststoffwaren,0.3809,0.2153,26.5,16974
+23,"Glas, Keramik, Zementwaren",0.4346,0.2408,-1.3,14746
+24-25,"Metallerzeugung, Metallerzeugnisse",0.4006,0.2138,37.2,74237
+26-27,"Elektrotechnik, Elektronik, Uhren, Optik",0.2867,0.4114,33.2,102841
+28,Maschinenbau,0.3428,0.3807,34.1,65404
+29-30,Fahrzeugbau,0.3529,0.2927,18.3,15000
+31-33,Möbel; Reparatur von Maschinen,0.4471,0.2804,15.9,42599
+35,Energieversorgung,0.3752,0.4506,13.4,23307
+36-39,Recycling; Wasserversorgung,0.3582,0.2331,4.5,13478
+41-43,Baugewerbe,0.5641,0.1627,22.7,268101
+45,Autohandel und -reparatur*,0.0827,0.8595,20.6,60273
+46,Grosshandel*,0.2423,0.6698,8.3,181441
+47,Detailhandel*,0.3686,0.3998,12,207652
+49-52,Verkehr und Transport,0.435,0.3904,24.4,156027
+55-56,Gastgewerbe,0.6014,0.1082,49.3,161078
+58-63,Information und Kommunikation,0.2257,0.7724,14.8,141504
+64-66,Finanz- und Versicherungsdienstleistungen*,0.1423,0.8742,12.6,207580
+68,Grundstücks- und Wohnungswesen,0.3098,0.5159,20.7,38647
+69-75,"Freiberufl., wissensch. u. techn. Dienstleistungen",0.2814,0.6791,20.8,349089
+77-82,Sonstige wirtschaftliche Dienstleistungen,0.3541,0.2765,22,140245
+84,"Öffentl. Verwaltung, Sozialversicherungen*",0,1,23.5,167460
+85,Erziehung und Unterricht,0.5661,0.6749,27.3,247506
+86-88,Gesundheits- und Sozialwesen*,0,1,12.6,469426
+90-93,"Kunst, Unterhaltung und Erholung",0.4967,0.4462,28.1,57823
+94-96,Sonstige Dienstleistungen,0.5348,0.461,19.1,106093
+97-98,Private Haushalte mit Hauspersonal,0.4214,0.1778,1.6,29927
