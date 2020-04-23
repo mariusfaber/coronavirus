@@ -1,0 +1,107 @@
+msr,msr_title,lockdown_index,home_office_index,weights_msr
+1,Zürich,0.27,0.69,212225
+2,Glattal-Furttal,0.28,0.61,96053
+3,Limmattal,0.29,0.58,36288
+4,Knonaueramt,0.22,0.67,21883
+5,Zimmerberg,0.27,0.61,50647
+6,Pfannenstiel,0.28,0.67,51845
+7,Zürcher Oberland,0.32,0.57,77307
+8,Winterthur,0.32,0.58,89919
+9,Weinland,0.35,0.63,13186
+10,Zürcher Unterland,0.30,0.53,56206
+11,Bern,0.28,0.66,142782
+12,Erlach-Seeland,0.29,0.53,28815
+13,Biel/Bienne,0.31,0.53,38891
+14,Jura bernois,0.32,0.45,16866
+15,Oberaargau,0.32,0.46,35633
+16,Burgdorf,0.33,0.45,34114
+17,Oberes Emmental,0.33,0.36,14485
+18,Aaretal,0.33,0.49,31311
+19,Schwarzwasser,0.35,0.45,7809
+20,Thun,0.30,0.52,49655
+21,Saanen-Obersimmental,0.38,0.35,8612
+22,Kandertal,0.30,0.42,7195
+23,Oberland-Ost,0.34,0.48,19517
+24,Grenchen,0.38,0.34,15655
+25,Laufental,0.31,0.53,22080
+26,Luzern,0.30,0.58,100557
+27,Sursee-Seetal,0.32,0.49,41901
+28,Willisau,0.34,0.41,29313
+29,Entlebuch,0.26,0.47,6440
+30,Uri,0.36,0.44,16086
+31,Innerschwyz,0.32,0.53,34826
+32,Einsiedeln,0.33,0.48,12606
+33,March-Höfe,0.26,0.63,32833
+34,Sarneraatal,0.36,0.45,17688
+35,Nidwalden,0.32,0.51,22006
+36,Glarner Unterland,0.31,0.41,14231
+37,Glarner Hinterland,0.27,0.57,5167
+38,Zug,0.30,0.60,60020
+39,La Sarine,0.31,0.58,42881
+40,La Gruyère,0.35,0.48,21830
+41,Sense,0.27,0.50,22124
+42,Murten/Morat,0.29,0.52,24450
+43,Glâne-Veveyse,0.33,0.49,21302
+44,Olten,0.34,0.52,42548
+45,Thal,0.39,0.28,6111
+46,Solothurn,0.34,0.51,46234
+47,Basel-Stadt,0.29,0.67,81379
+48,Unteres Baselbiet,0.30,0.61,69215
+49,Oberes Baselbiet,0.29,0.54,40442
+50,Schaffhausen,0.33,0.49,35336
+51,Appenzell A. Rh,0.30,0.54,25396
+52,Appenzell I. Rh,0.35,0.38,8062
+53,St. Gallen,0.33,0.52,87821
+54,Rheintal,0.30,0.52,29359
+55,Werdenberg,0.38,0.42,17708
+56,Sarganserland,0.36,0.45,24443
+57,Linthgebiet,0.30,0.52,24647
+58,Toggenburg,0.35,0.41,15684
+59,Wil,0.33,0.47,44303
+60,Chur,0.31,0.59,37989
+61,Prättigau,0.28,0.48,7284
+62,Davos,0.25,0.56,5613
+63,Schanfigg,0.40,0.34,1024
+64,Mittelbünden,0.30,0.32,4150
+65,Viamala,0.32,0.44,5372
+66,Surselva,0.31,0.47,10988
+67,Engiadina Bassa,0.33,0.38,5467
+68,Oberengadin,0.31,0.49,11207
+69,Mesolcina,0.35,0.39,4899
+70,Aarau,0.31,0.52,114585
+71,Brugg-Zurzach,0.29,0.53,35406
+72,Baden,0.31,0.60,54763
+73,Mutschellen,0.28,0.57,33425
+74,Freiamt,0.33,0.52,33212
+75,Fricktal,0.31,0.50,41947
+76,Thurtal,0.34,0.51,44726
+77,Untersee,0.33,0.53,32394
+78,Oberthurgau,0.34,0.45,34334
+79,Tre Valli,0.33,0.45,8724
+80,Locarno,0.33,0.55,28107
+81,Bellinzona,0.27,0.59,20716
+82,Lugano,0.30,0.61,61347
+83,Mendrisio,0.32,0.58,22940
+84,Lausanne,0.28,0.64,127610
+85,Morges,0.28,0.62,39229
+86,Nyon,0.24,0.68,37986
+87,Vevey,0.30,0.61,40710
+88,Aigle,0.34,0.51,15787
+89,Pays d'Enhaut,0.29,0.44,2076
+90,Gros-de-Vaud,0.29,0.55,32369
+91,Yverdon,0.31,0.58,23751
+92,La Vallée,0.39,0.39,4707
+93,La Broye,0.36,0.48,38945
+94,Goms,0.48,0.46,1719
+95,Brig,0.35,0.49,10867
+96,Visp,0.34,0.29,13757
+97,Leuk,0.30,0.57,3525
+98,Sierre,0.33,0.52,23548
+99,Sion,0.29,0.55,41332
+100,Martigny,0.38,0.46,32942
+101,Monthey,0.32,0.54,24033
+102,Neuchâtel,0.29,0.57,42701
+103,La Chaux-de-Fonds,0.29,0.42,28300
+104,Val-de-Travers,0.34,0.46,3909
+105,Genève,0.29,0.63,183997
+106,Jura,0.26,0.54,29903
