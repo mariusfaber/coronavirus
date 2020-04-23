@@ -7,10 +7,12 @@ Abbildung 1:         indexes_kanton_seco.csv
 
 Abbildung 2:         indexes_lmr2000.csv
 
-Abbildungen 4 und 8: indexes_noga2008_seco.csv
+Abbildung 4:         indexes_urban.csv
 
-Abbildung 5:         indexes_income.csv
+Abbildungen 5 und 9: indexes_noga2008_seco.csv
 
-Abbildung 6:         indexes_agegroup.csv
+Abbildung 6:         indexes_income.csv
 
-Abbildung 7:         indexes_gendercivil.csv
+Abbildung 7:         indexes_agegroup.csv
+
+Abbildung 8:         indexes_gendercivil.csv
