@@ -1,0 +1,4 @@
+urban,lockdown_index,home_office_index,weights
+Stadt,0.30,0.59,2331492
+Periurbaner Raum und ländliche Zentren,0.31,0.54,801050
+Land,0.32,0.46,635710
