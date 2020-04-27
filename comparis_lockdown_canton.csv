@@ -1,0 +1,20 @@
+canton,share_ka_users,lockdown_index,weights
+Zürich,5.15,0.2854,772627
+Bern,5.44,0.2992,471785
+Luzern,4.73,0.3204,181699
+Uri,7.10,0.3654,12041
+Schwyz,5.23,0.3193,61554
+Obwalden,4.98,0.3871,15516
+Nidwalden,6.08,0.3404,19918
+Glarus,4.50,0.2961,16565
+Zug,4.40,0.2765,84391
+Solothurn,5.67,0.3313,102350
+Basel-Stadt,4.27,0.2857,117643
+Basel-Landschaft,4.28,0.3069,87256
+Schaffhausen,5.41,0.3009,31237
+Appenzell Ausserrhoden,5.37,0.3228,19266
+Appenzell Innerrhoden,6.61,0.3807,6131
+St. Gallen,5.44,0.3249,223614
+Graubünden,4.11,0.3137,89346
+Aargau,4.60,0.3149,252787
+Thurgau,4.78,0.3272,95107
