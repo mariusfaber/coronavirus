@@ -20,3 +20,7 @@ Abbildung 7: indexes_agegroup.csv
 Abbildung 8: indexes_gendercivil.csv
 
 Abbildung 9: indexes_noga2008_seco.csv
+
+Abbildung 10: comparis_canton.csv
+
+Abbildung 11: comparis_lockdown_canton.csv
