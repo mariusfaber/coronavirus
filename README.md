@@ -19,8 +19,24 @@ Abbildung 7:  indexes_agegroup.csv
 
 Abbildung 8:  indexes_gendercivil.csv
 
-Abbildung 9:  indexes_noga2008_seco.csv
+Abbildung 9:  kza_lockdown_canton.csv
 
-Abbildung 10: comparis_canton.csv
+Abbildung 10: kza_lockdown_noga2008_kza.csv
 
-Abbildung 11: comparis_lockdown_canton.csv
+Abbildung 11: kza_lockdown_noga2008_kza.csv
+
+Abbildung 12: kza_lockdown_adjusted_noga2008_kza.csv
+
+Abbildung 13: kza_lockdown_canton.csv
+
+Abbildung 14: kza_lockdown_adjusted_canton.csv
+
+Abbildung 15: comparis_canton.csv
+
+Abbildung 16: comparis_lockdown_canton.csv
+
+Abbildung 17: indexes_noga2008_seco.csv
+
+Abbildung 18: indexes_firmcanton.csv
+
+Abbildung 19: indexes_noga2008_seco.csv
