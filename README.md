@@ -31,12 +31,12 @@ Abbildung 13: kza_lockdown_canton.csv
 
 Abbildung 14: kza_lockdown_adjusted_canton.csv
 
-Abbildung 15: comparis_canton.csv
+Abbildung 16: comparis_canton.csv
 
-Abbildung 16: comparis_lockdown_canton.csv
+Abbildung 17: comparis_lockdown_canton.csv
 
-Abbildung 17: indexes_noga2008_seco.csv
+Abbildung 18: indexes_noga2008_seco.csv
 
-Abbildung 18: indexes_firmcanton.csv
+Abbildung 19: indexes_firmcanton.csv
 
-Abbildung 19: indexes_noga2008_seco.csv
+Abbildung 20: indexes_noga2008_seco.csv
