@@ -37,6 +37,8 @@ Abbildung 17: comparis_lockdown_canton.csv
 
 Abbildung 18: indexes_noga2008_seco.csv
 
-Abbildung 19: indexes_firmcanton.csv
+Abbildung 19: scatter_ue_lockdown_canton.csv
 
-Abbildung 20: indexes_noga2008_seco.csv
+Abbildung 20: indexes_firmcanton.csv
+
+Abbildung 21: indexes_noga2008_seco.csv
