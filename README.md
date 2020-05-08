@@ -3,23 +3,25 @@ Auswirkungen der Coronamassnahmen auf die Erwerbstätigkeit in der Schweiz
 
 Dieser Ordner beinhaltet alle Daten, die den Abbildungen auf https://wwz.unibas.ch/de/appliedeconometrics/coronavirus/ zugrunde liegen. Ausserdem beinhalten die Daten auch den Home-Office-Index gemäss Dingel und Neiman (2020) für alle Aggregationsebenen.
 
-Abbildung 2:  indexes_firmcanton.csv
+Abbildung 1: al_und_ka_2004_2020.csv
 
-Abbildung 3:  indexes_lmr2000.csv
+Abbildung 2: indexes_firmcanton.csv
 
-Abbildung 4:  indexes_msr.csv
+Abbildung 3: indexes_lmr2000.csv
 
-Abbildung 5:  indexes_urban.csv
+Abbildung 4: indexes_msr.csv
 
-Abbildung 6:  indexes_noga2008_seco.csv
+Abbildung 5: indexes_urban.csv
 
-Abbildung 7:  indexes_income.csv
+Abbildung 6: indexes_noga2008_seco.csv
 
-Abbildung 8:  indexes_agegroup.csv
+Abbildung 7: indexes_income.csv
 
-Abbildung 9:  indexes_gendercivil.csv
+Abbildung 8: indexes_agegroup.csv
 
-Abbildung 10:  kza_lockdown_canton.csv
+Abbildung 9: indexes_gendercivil.csv
+
+Abbildung 10: kza_lockdown_canton.csv
 
 Abbildung 11: kza_lockdown_noga2008_kza.csv
 
